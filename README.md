@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/NagaRaju2605/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
