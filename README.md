@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/NagaRaju2605/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/NagaRaju2605/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2469-convert-the-temperature](https://github.com/NagaRaju2605/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NagaRaju2605/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
