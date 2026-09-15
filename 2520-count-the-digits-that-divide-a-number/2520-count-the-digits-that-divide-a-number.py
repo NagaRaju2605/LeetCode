@@ -2,7 +2,6 @@ class Solution:
     def countDigits(self, num: int) -> int:
         n = num
         count = 0
-
         while n > 0:
             digit = n % 10
 
