@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/NagaRaju2605/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/NagaRaju2605/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2469-convert-the-temperature](https://github.com/NagaRaju2605/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/NagaRaju2605/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
