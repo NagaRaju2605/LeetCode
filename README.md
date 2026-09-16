@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/NagaRaju2605/LeetCode/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/NagaRaju2605/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
