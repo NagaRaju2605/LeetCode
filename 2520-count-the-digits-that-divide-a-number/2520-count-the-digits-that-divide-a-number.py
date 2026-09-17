@@ -8,3 +8,4 @@ class Solution:
                 count += 1
             n = n // 10
         return count
+        
