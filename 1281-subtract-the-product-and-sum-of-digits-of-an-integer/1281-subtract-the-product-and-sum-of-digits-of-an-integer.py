@@ -8,6 +8,6 @@ class Solution:
             product *= digit
             n = n // 10
         return product - sum
-
+        
 
         
