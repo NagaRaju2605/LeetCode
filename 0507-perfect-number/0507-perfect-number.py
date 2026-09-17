@@ -8,5 +8,8 @@ class Solution:
                 total += i
                 if i != num // i:
                     total += num // i
-
         return total == num
+
+
+
+
