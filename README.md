@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
