@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/NagaRaju2605/LeetCode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaRaju2605/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/NagaRaju2605/LeetCode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NagaRaju2605/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaRaju2605/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1732-find-the-highest-altitude](https://github.com/NagaRaju2605/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/NagaRaju2605/LeetCode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaRaju2605/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
