@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/NagaRaju2605/LeetCode/tree/master/0343-integer-break) |
+| [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/NagaRaju2605/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/NagaRaju2605/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [3498-reverse-degree-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NagaRaju2605/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
