@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NagaRaju2605/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NagaRaju2605/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/NagaRaju2605/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/NagaRaju2605/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/NagaRaju2605/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -113,4 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NagaRaju2605/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
