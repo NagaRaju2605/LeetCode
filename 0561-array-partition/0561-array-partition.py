@@ -6,5 +6,3 @@ class Solution:
             total += nums[i]
         return total
         
-
-        
