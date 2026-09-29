@@ -7,5 +7,6 @@ class Solution:
                 result.append(i)
             else:
                 d[i] = 1
-        
         return result
+    
+        
