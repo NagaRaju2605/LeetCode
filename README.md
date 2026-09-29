@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRaju2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/NagaRaju2605/LeetCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRaju2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NagaRaju2605/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NagaRaju2605/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NagaRaju2605/LeetCode/tree/master/0219-contains-duplicate-ii) |
