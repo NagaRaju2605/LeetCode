@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/NagaRaju2605/LeetCode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/NagaRaju2605/LeetCode/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaRaju2605/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NagaRaju2605/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/NagaRaju2605/LeetCode/tree/master/0819-most-common-word) |
 | [1408-string-matching-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NagaRaju2605/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NagaRaju2605/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/NagaRaju2605/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NagaRaju2605/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NagaRaju2605/LeetCode/tree/master/0645-set-mismatch) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NagaRaju2605/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/NagaRaju2605/LeetCode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/NagaRaju2605/LeetCode/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaRaju2605/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -238,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1408-string-matching-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
