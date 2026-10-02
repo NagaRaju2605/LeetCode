@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NagaRaju2605/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/NagaRaju2605/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/NagaRaju2605/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/NagaRaju2605/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/NagaRaju2605/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/NagaRaju2605/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/NagaRaju2605/LeetCode/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/NagaRaju2605/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |
