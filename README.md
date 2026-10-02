@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/NagaRaju2605/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/NagaRaju2605/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/NagaRaju2605/LeetCode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NagaRaju2605/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NagaRaju2605/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/NagaRaju2605/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NagaRaju2605/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
