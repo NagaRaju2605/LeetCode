@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NagaRaju2605/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/NagaRaju2605/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/NagaRaju2605/LeetCode/tree/master/0343-integer-break) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/NagaRaju2605/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/NagaRaju2605/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
