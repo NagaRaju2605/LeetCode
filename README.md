@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NagaRaju2605/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/NagaRaju2605/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/NagaRaju2605/LeetCode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0507-perfect-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NagaRaju2605/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/NagaRaju2605/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/NagaRaju2605/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/NagaRaju2605/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/NagaRaju2605/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NagaRaju2605/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1486-xor-operation-in-an-array) |
