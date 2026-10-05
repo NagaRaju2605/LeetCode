@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NagaRaju2605/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/NagaRaju2605/LeetCode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/NagaRaju2605/LeetCode/tree/master/0917-reverse-only-letters) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRaju2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/NagaRaju2605/LeetCode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/NagaRaju2605/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NagaRaju2605/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/NagaRaju2605/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/NagaRaju2605/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/NagaRaju2605/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
