@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/NagaRaju2605/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1408-string-matching-in-an-array](https://github.com/NagaRaju2605/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NagaRaju2605/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/NagaRaju2605/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/NagaRaju2605/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NagaRaju2605/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
