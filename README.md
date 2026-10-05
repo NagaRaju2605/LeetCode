@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NagaRaju2605/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/NagaRaju2605/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRaju2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NagaRaju2605/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NagaRaju2605/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NagaRaju2605/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NagaRaju2605/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NagaRaju2605/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
