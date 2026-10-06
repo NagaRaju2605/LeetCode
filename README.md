@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NagaRaju2605/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NagaRaju2605/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NagaRaju2605/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NagaRaju2605/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NagaRaju2605/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/NagaRaju2605/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/NagaRaju2605/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/NagaRaju2605/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRaju2605/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NagaRaju2605/LeetCode/tree/master/0169-majority-element) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NagaRaju2605/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NagaRaju2605/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/NagaRaju2605/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NagaRaju2605/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/NagaRaju2605/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/NagaRaju2605/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NagaRaju2605/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NagaRaju2605/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NagaRaju2605/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NagaRaju2605/LeetCode/tree/master/0242-valid-anagram) |
